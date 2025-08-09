@@ -25,22 +25,22 @@
 ## 💻 Kurulum
 
 1. Depoyu klonlayın:
-
-```bash
-git clone https://github.com/kullaniciadi/SnakeByte.git
+--
+git clone https://github.com/cigdem-n/SnakeByte.git
 cd SnakeByte
-
+--
+--
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
+--
 Gerekli Python modülleri varsa yükleyin (bu projede standart kütüphaneler kullanılmıştır, ekstra modül gerekmez).
 
 
 🚀 Kullanım
 --
-
 python waf_bypass.py
-
+--
 Öncelikle dil seçimi yapın (Türkçe veya İngilizce).
 
 Ardından kodlama (Encode) veya kod çözme (Decode) modunu seçin.
