@@ -203,7 +203,7 @@ texts = {
         "file_not_found": "⛔ Dosya bulunamadı!",
         "encoded_saved": "✅ Encode edilmiş payloadlar '{file}' dosyasına kaydedildi.",
         "all_encoded_saved": "✅ Tüm encode çıktıları '{file}' dosyasına kaydedildi.",
-        "exit_message": "👋 Görüşürüz bebiş 💖",
+        "exit_message": "Görüşmek üzere",
         "invalid_choice_msg": "⛔ Geçersiz seçim yaptın bebiş.",
         "payload": "Payload",
         "encoded": "Encoded",
@@ -251,7 +251,7 @@ texts = {
         "file_not_found": "⛔ File not found!",
         "encoded_saved": "✅ Encoded payloads saved to '{file}'.",
         "all_encoded_saved": "✅ All encoded outputs saved to '{file}'.",
-        "exit_message": "👋 See you later, babe 💖",
+        "exit_message": "👋 See you later",
         "invalid_choice_msg": "⛔ Invalid choice, babe.",
         "payload": "Payload",
         "encoded": "Encoded",
@@ -418,3 +418,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
