@@ -1,10 +1,9 @@
 # SnakeByte 🐍
-
-🔥 **SnakeByte** — Güvenlik araştırmacıları ve pentesterlar için geliştirilmiş güçlü bir WAF Bypass Kodlama ve Kod Çözme aracıdır.
+**SnakeByte** — Güvenlik araştırmacıları ve pentesterlar için geliştirilmiş güçlü bir WAF Bypass Kodlama ve Kod Çözme aracıdır.
 
 ---
 
-## 🚀 Özellikler
+## Özellikler
 
 - Birçok kodlama ve kod çözme yöntemi destekler:
   - URL Kodlama / Kod Çözme
@@ -22,10 +21,10 @@
 
 ---
 
-## 💻 Kurulum
+## Kurulum
 
 1. Depoyu klonlayın:
---
+```bash
 git clone https://github.com/cigdem-n/SnakeByte.git
 cd SnakeByte
 --
@@ -37,7 +36,7 @@ venv\Scripts\activate     # Windows
 Gerekli Python modülleri varsa yükleyin (bu projede standart kütüphaneler kullanılmıştır, ekstra modül gerekmez).
 
 
-🚀 Kullanım
+Kullanım
 --
 python waf_bypass.py
 --
